@@ -10,4 +10,6 @@
 
 #### 5. Movie Recommender Systems Project   [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rasheeqqua/data_analysis_projects.git/recommender?labpath=Movie%20Recommender%20Systems%20Project.ipynb)
 
-#### 6. Natural Language Processing Project   [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rasheeqqua/data_analysis_projects.git/nlp?labpath=Natural%20Language%20Processing%20Project.ipynb)
+#### 6. Natural Language Processing Project    [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rasheeqqua/data_analysis_projects.git/nlp?labpath=Natural%20Language%20Processing%20Project.ipynb)
+
+#### 7. Deep Neural Network Project   [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rasheeqqua/data_analysis_projects/dnn?labpath=Deep%20Neural%20Network.ipynb)
