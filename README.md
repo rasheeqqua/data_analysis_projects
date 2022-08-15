@@ -1,1 +1,1 @@
-# Support Vector Machine Project
+# Deep Neural Network Project
